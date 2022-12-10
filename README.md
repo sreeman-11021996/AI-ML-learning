@@ -1,1 +1,1 @@
-# NLP-Live
+# AI and Machine Learning Practise
